@@ -77,6 +77,9 @@ public class TestFastDFS {
         }
     }
 
-
+    @Test
+    public void testPrint(){
+        System.out.println("git测试");
+    }
 
 }
