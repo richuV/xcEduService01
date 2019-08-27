@@ -82,8 +82,8 @@ public class TestFastDFS {
         System.out.println("git测试");
     }
     @Test
-    public void testPrint2(){
-        System.out.println("git测试");
+    public void testPrint1(){
+        System.out.println("git测试1");
     }
 
 }
